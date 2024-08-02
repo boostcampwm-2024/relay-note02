@@ -234,10 +234,10 @@
 - 퀘스트 진행 과정: 10시 전이나, 19시 이후에 퀘스트를 진행하였습니다.
 - 매일 4km 런닝을 진행하였습니다.
 
-<img height="400" width="600" alt="1" src="https://gist.github.com/user-attachments/assets/9d3b3e73-d32f-49fd-bf2a-72e0416c1b43">
-<img height="400" width="600" alt="2" src="https://gist.github.com/user-attachments/assets/342132eb-67f6-455c-8454-f73faad7c131">
-<img height="400" width="600" alt="3" src="https://gist.github.com/user-attachments/assets/09ba450e-afbf-4dee-adef-092b6e59826f">
-<img height="400" width="600" alt="4" src="https://gist.github.com/user-attachments/assets/22abae07-605e-4c72-9b13-d745342e7364">
+<img height="400" width="600" alt="1" src="https://github.com/user-attachments/assets/f177c421-ebfb-41f8-87d1-5b2f2fe25ec6">
+<img height="400" width="600" alt="2" src="https://github.com/user-attachments/assets/830bb409-fa2c-46a8-9de9-aa6a6dcbe3d6">
+<img height="400" width="600" alt="3" src="https://github.com/user-attachments/assets/e4a7aac4-12bf-44c4-968d-96cee6be9a70">
+<img height="400" width="600" alt="4" src="https://github.com/user-attachments/assets/1ae51688-6dc1-42e9-b3a0-252fea5fb74c">
 
 #### Quest Review 📝
 
